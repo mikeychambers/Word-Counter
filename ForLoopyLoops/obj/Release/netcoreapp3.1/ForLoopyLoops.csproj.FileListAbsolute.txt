@@ -1,0 +1,13 @@
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\bin\Release\netcoreapp3.1\WordCounter.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\bin\Release\netcoreapp3.1\WordCounter.deps.json
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\bin\Release\netcoreapp3.1\WordCounter.runtimeconfig.json
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\bin\Release\netcoreapp3.1\WordCounter.runtimeconfig.dev.json
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\bin\Release\netcoreapp3.1\WordCounter.dll
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\bin\Release\netcoreapp3.1\WordCounter.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\obj\Release\netcoreapp3.1\ForLoopyLoops.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\obj\Release\netcoreapp3.1\ForLoopyLoops.AssemblyInfoInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\obj\Release\netcoreapp3.1\ForLoopyLoops.AssemblyInfo.cs
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\obj\Release\netcoreapp3.1\ForLoopyLoops.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\obj\Release\netcoreapp3.1\WordCounter.dll
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\obj\Release\netcoreapp3.1\WordCounter.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\WordCount\ForLoopyLoops\obj\Release\netcoreapp3.1\ForLoopyLoops.genruntimeconfig.cache

@@ -1,0 +1,59 @@
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.exe
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.deps.json
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.json
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.dev.json
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.csprojAssemblyReference.cache
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfoInputs.cache
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfo.cs
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\I hate windows\Documents\My Code\Unfinished\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.exe
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.deps.json
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.json
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.dev.json
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.csprojAssemblyReference.cache
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfoInputs.cache
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfo.cs
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\I hate windows\Documents\My Code\C# Fundamentals\ForLoopyLoops\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.exe
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.deps.json
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.json
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.dev.json
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.csprojAssemblyReference.cache
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfoInputs.cache
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfo.cs
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\I hate windows\Documents\My Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.exe
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.deps.json
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.json
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.dev.json
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfoInputs.cache
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfo.cs
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\507\Documents\Code\Hibernating\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.genruntimeconfig.cache
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.exe
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.deps.json
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.json
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.runtimeconfig.dev.json
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\bin\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfoInputs.cache
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.AssemblyInfo.cs
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.dll
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.pdb
+C:\Users\507\Documents\Code\Unfinished\WordCount\ForLoopyLoops\obj\Debug\netcoreapp3.1\ForLoopyLoops.genruntimeconfig.cache
